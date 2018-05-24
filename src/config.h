@@ -21,7 +21,7 @@
 #define SEARCHICON ":/icons/icons/google.png"
 #define EXEICON ":/icons/icons/application-x-executable.png"
 
-#define SEARCHURL "https://www.google.com/search?q="
+#define SEARCHURL "https://www.duckduckgo.com/search?q="
 
 #define CFPATH (std::string(PATH)+"/.config/Mutate")
 #define FREQUENCEPATH (CFPATH+"/frequence")

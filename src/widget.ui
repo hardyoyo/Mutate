@@ -25,6 +25,7 @@
   <property name="font">
    <font>
     <pointsize>60</pointsize>
+    <family>Hack</family>
    </font>
   </property>
   <property name="focusPolicy">
